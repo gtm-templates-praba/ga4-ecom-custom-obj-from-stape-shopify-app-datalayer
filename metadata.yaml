@@ -2,5 +2,5 @@ homepage: 'https://codechilli.lk'
 documentation: 'https://github.com/gtm-templates-praba/ga4-ecom-custom-obj-from-stape-shopify-app-datalayer/blob/main/README.md'
 versions:
   # Latest version
-  - sha:
+  - sha: 2fe890bcf1d99514ecd72928439c8d6434730893
     changeNotes: Initial release.
